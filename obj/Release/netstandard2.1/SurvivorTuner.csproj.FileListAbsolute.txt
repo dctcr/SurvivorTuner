@@ -1,0 +1,10 @@
+C:\Users\jrmur\Dev\ROR2\SurvivorTuner\obj\Release\netstandard2.1\SurvivorTuner.csproj.AssemblyReference.cache
+C:\Users\jrmur\Dev\ROR2\SurvivorTuner\obj\Release\netstandard2.1\SurvivorTuner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrmur\Dev\ROR2\SurvivorTuner\obj\Release\netstandard2.1\SurvivorTuner.AssemblyInfoInputs.cache
+C:\Users\jrmur\Dev\ROR2\SurvivorTuner\obj\Release\netstandard2.1\SurvivorTuner.AssemblyInfo.cs
+C:\Users\jrmur\Dev\ROR2\SurvivorTuner\obj\Release\netstandard2.1\SurvivorTuner.csproj.CoreCompileInputs.cache
+C:\Users\jrmur\Dev\ROR2\SurvivorTuner\bin\Release\netstandard2.1\SurvivorTuner.deps.json
+C:\Users\jrmur\Dev\ROR2\SurvivorTuner\bin\Release\netstandard2.1\SurvivorTuner.dll
+C:\Users\jrmur\Dev\ROR2\SurvivorTuner\bin\Release\netstandard2.1\SurvivorTuner.pdb
+C:\Users\jrmur\Dev\ROR2\SurvivorTuner\obj\Release\netstandard2.1\SurvivorTuner.dll
+C:\Users\jrmur\Dev\ROR2\SurvivorTuner\obj\Release\netstandard2.1\SurvivorTuner.pdb

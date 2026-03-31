@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SurvivorTuner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fad6360f347eb298ac42ecf4dddcf1e4dce4eb46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43c96197f46a02d7ed475cca020471ab56dd7784")]
 [assembly: System.Reflection.AssemblyProductAttribute("SurvivorTuner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SurvivorTuner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
